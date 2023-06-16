@@ -76,7 +76,7 @@ The following resources are available to help you understand and work with this 
 # 👑 Deployment to AWS 
 
 To Deploy your Flutter app to AWS follow the instructions provided in the `DEPLOYMENT.md` file. 
-- 
+
 **GO Check it out!!** ➡️ [Deployment.md](https://github.com/UjjwalMahar/Flutter-App-To-AWS/blob/4ae1ebb58563849b7002215d93beca48d28b6a81/DEPLOYMENT.md)
 
 

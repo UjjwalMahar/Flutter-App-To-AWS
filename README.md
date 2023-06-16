@@ -17,7 +17,7 @@ Follow the steps below to clone the repository and set up the Flutter app:
 1. Clone this repository to your local machine using the following command:
 
    ```shell
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/UjjwalMahar/Flutter-App-To-AWS.git
    ```
 
 2. Change into the project directory:
